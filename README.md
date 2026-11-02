@@ -34,6 +34,26 @@ il/ilçe seçip doğrulamayı yaparak hangi eczanelerde olduğunu görebilirsini
 Aynı eşdeğer gruptaki ilaçlar aynı etken madde, doz ve formdadır. İlacınızı değiştirmeden önce
 hekiminize ya da eczacınıza danışın. SGK listesinde olmayan ilaçların eşdeğer bilgisi yoktur.
 
+## Ücretsiz sürüm ve abonelik
+
+| Özellik | Ücretsiz | Tam sürüm |
+|---|---|---|
+| Eczane araması | 22 ilaç (Clexane, Mounjaro, Salofalk vb.) | Listedeki tüm ilaçlar |
+| Karekod / barkod okutma | ✓ (yalnızca bu ilaçlar) | ✓ |
+| Eşdeğer Bul | ✓ | ✓ |
+
+Ücretsiz sürümde aranabilen ilaçları görmek için İlaç Bul ekranında ilaç alanına dokunun.
+
+Tam sürüm **yıllık, otomatik yenilenen bir aboneliktir.** Ücret App Store veya Google Play
+hesabınızdan alınır. Abonelik, dönem bitiminden en az 24 saat önce iptal edilmezse otomatik
+olarak yenilenir.
+
+- **İptal / yönetim:** Uygulamada Ayarlar → Tam sürüm etkin → **Yönet**, ya da
+  - iPhone: Ayarlar → [adınız] → Abonelikler
+  - Android: Google Play → Profil → Ödemeler ve abonelikler → Abonelikler
+- **Yeni cihaz / yeniden yükleme:** Ayarlar → **Satın alımları geri yükle**. Aboneliği satın
+  aldığınız Apple ID / Google hesabıyla oturum açmış olmanız gerekir.
+
 ## Favoriler ve geçmiş
 
 İlaç alanının yanındaki yıldızla ilacı favorilere ekleyebilirsiniz. Yaptığınız aramalar

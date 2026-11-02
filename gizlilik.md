@@ -81,10 +81,11 @@ adı ve adresiyle harita uygulaması (Google Haritalar) açılır. Sonuçları p
 işletim sisteminin paylaşım menüsü açılır ve nereye gönderileceğine siz karar verirsiniz. Bu
 uygulama ve hizmetler kendi gizlilik politikalarına tabidir.
 
-## 8. Uygulama içi satın alımlar
+## 8. Abonelik
 
-Uygulamaya ileride ücretli özellikler eklenirse ödemeler **Apple App Store** veya **Google
-Play** tarafından işlenir. Ödeme ve kart bilgileriniz Uygulamaya veya Geliştiriciye iletilmez.
+Tam sürüm aboneliğinin ödemeleri **Apple App Store** veya **Google Play** tarafından işlenir.
+Ödeme ve kart bilgileriniz Uygulamaya veya Geliştiriciye iletilmez. Uygulama yalnızca mağazadan
+aboneliğinizin etkin olup olmadığını ve bitiş tarihini öğrenir; bu bilgi cihazınızda saklanır.
 Bu işlemler ilgili mağazanın gizlilik politikasına tabidir:
 [Apple](https://www.apple.com/legal/privacy/) ·
 [Google](https://policies.google.com/privacy).

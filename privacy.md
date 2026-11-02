@@ -80,11 +80,12 @@ application (Google Maps) opens with the pharmacy's name and address. When you s
 the system share sheet opens and you decide where they go. Those apps and services are governed
 by their own privacy policies.
 
-## 8. In-app purchases
+## 8. Subscription
 
-If paid features are added to the App in the future, payments will be processed by the **Apple
-App Store** or **Google Play**. Your payment and card details are never shared with the App or
-the Developer. See [Apple](https://www.apple.com/legal/privacy/) ·
+Full-version subscription payments are processed by the **Apple App Store** or **Google Play**.
+Your payment and card details are never shared with the App or the Developer. The App only
+learns from the store whether your subscription is active and when it expires; this is stored on
+your device. See [Apple](https://www.apple.com/legal/privacy/) ·
 [Google](https://policies.google.com/privacy).
 
 ## 9. Data we do not collect
